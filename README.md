@@ -14,7 +14,7 @@ Efter I har downloadet en af dem, skal I udfylde disse felter i programmet, for 
 - **Password:** \*\*\*\*\*\*
 - **Port:** 21
 
-Når I er forbundet skal I gå ind på: **/home/fweb/App1/ **, selvom I har adgang til hele serveren, så venligst begræns jer til denne PATH, så serveren f.eks ikke med en fejl bliver slettet eller lignende...
+Når I er forbundet skal I gå ind på: **/home/fweb/App1/**, selvom I har adgang til hele serveren, så venligst begræns jer til denne PATH, så serveren f.eks ikke med en fejl bliver slettet eller lignende...
 
 ### SSH
 

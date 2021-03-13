@@ -1,6 +1,6 @@
 ## Praktisk information
 
-Nu hvor serveren **De1-SoC **eller **Charlie ** er sat op og kører nogelunde 24//7 (ahah), skal vi interagere med den, dvs forbinde via SSH, FTP eller lignende.
+Nu hvor serveren **De1-SoC** eller **Charlie** er sat op og kører nogelunde 24//7 (ahah), skal vi interagere med den, dvs forbinde via SSH, FTP eller lignende.
 
 ### FTP
 Vi bruger FTP til at overføre filer til serveren. Det betyder I skal have installeret et program, som kan gøre den proces nemt for jer. Jeg anbefaler disse programmer:

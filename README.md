@@ -18,7 +18,7 @@ Når I er forbundet skal I gå ind på: **/home/fweb/App1/**, selvom I har adgan
 
 ### SSH
 
-Vi bruger SSH til at modificere selve Ubuntu styresystem. I bør kun bruge SSH til serveren, hvis I ved hvad I laver, og har en klar intention om årsagen til modificering.  Det er meget nemt at \*\*\*\* systemet op, og desuden er Charlie (De1-SoC) ekstrem langsomt, så hvis nogen skulle lave en fejl kan den både være uopretteligt pga. *sådan er Linux* eller fordi at det vil tage for LANG tid at rette op, pga vi arbejder med en server, som har en processor fra før jeg var født.
+Vi bruger SSH til at modificere selve Ubuntu styresystem. I bør kun bruge SSH til serveren, hvis I ved hvad I laver, og har en klar intention om årsagen til modificering.  Det er meget nemt at \*\*\*\* systemet op, og desuden er Charlie (De1-SoC) ekstrem langsomt, så hvis nogen skulle lave en fejl kan den både være uopretteligt pga. *sådan er Linux* eller fordi at det vil tage for LANG tid at rette op, pga vi arbejder med en server, som har en processor fra f.Kr.
 
 I kan forbinde via **terminal ** eller **cmd,** afhænging af om i Apple-slaver eller Windows brugere, ved brug af følgende kommando:
 

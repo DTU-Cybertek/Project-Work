@@ -9,7 +9,7 @@ Vi bruger FTP til at overføre filer til serveren. Det betyder I skal have insta
 
 #### Forbindelse
 Efter I har downloadet en af dem, skal I udfylde disse felter i programmet, for at forbinde til serveren. I kan enten vælge at skrive domainnavnet dev.miew.org I stedet for IP, hvis det er nemmere at huske.
-- **Host: **dev.miew.org ELLER 82.211.207.249 
+- **Host:** dev.miew.org ELLER 82.211.207.249 
 - **Username:** delta
 - **Password:** \*\*\*\*\*\*
 - **Port:** 21
